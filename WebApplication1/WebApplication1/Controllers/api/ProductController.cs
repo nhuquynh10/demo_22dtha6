@@ -9,5 +9,8 @@ namespace WebApplication1.Controllers.api
     {
         public ProductController() { 
         }
+        int tonghaiso(int a, int b) {
+            return a + b;
+        }
     }
 }
